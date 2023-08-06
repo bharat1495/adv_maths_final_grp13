@@ -40,3 +40,34 @@ precision and recall, and detection showing high mean average precision.
 The models generalize well and hold promise for enhancing autonomous
 driving systems.
 
+## *Related* Work
+
+Deep learning techniques, particularly CNNs, have been extensively
+studied for traffic sign recognition. This project introduces YOLO
+models, including YOLOv3 and YOLOv5, for both classification and
+detection. While YOLO\'s speed and accuracy benefits have not been fully
+explored in this context, this project showcases their effectiveness.
+Additionally, a novel batch processing method accelerates training
+efficiency. The project bridges the gap between classification and
+detection using advanced technologies.
+
+## Data
+
+The project uses the GTSRB dataset consisting of train and test images.
+The dataset contains bounding box coordinates and class labels for
+various traffic signs. Data augmentation, sharpening, and normalization
+enhance model training. For YOLO models, annotation conversion,
+batching, and resizing optimize training. The project\'s findings are
+based on 39,210 training images, 12,631 test images, and a memory usage
+of 800 MB.
+
+## Conclusion
+
+The project contributes to safer autonomous driving through effective
+traffic sign recognition. Custom CNNs and YOLO models provide accurate
+classification and detection, even in challenging conditions. By
+integrating these models into self-driving car systems, the project
+enhances road safety and advances transportation efficiency.
+
+For detailed information, refer to the full report in the GitHub
+repository.
