@@ -47,7 +47,7 @@ precision and recall, and detection showing high mean average precision.
 The models generalize well and hold promise for enhancing autonomous
 driving systems.
 
-## *Related* Work
+## Related Work
 
 Deep learning techniques, particularly CNNs, have been extensively
 studied for traffic sign recognition. This project introduces YOLO
@@ -78,3 +78,21 @@ enhances road safety and advances transportation efficiency.
 
 For detailed information, refer to the full report in the GitHub
 repository.
+
+## Test out the model in Streamlit 
+
+https://advmathsfinalgrp13-ejjqxnduvpmoooxnatgvjh.streamlit.app/
+
+<div style="text-align: center; color: black;">
+    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldish</h1> 
+    <img src="images/s1.jpg" alt="Image" style="max-width: 300px;">
+</div>
+
+Click on browse use sample images from the folder in the the repo
+
+<div style="text-align: center; color: black;">
+    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldish</h1> 
+    <img src="images/s2.jpg" alt="Image" style="max-width: 300px;">
+</div>
+
+It will be able to detect the bounding box with its label. 
