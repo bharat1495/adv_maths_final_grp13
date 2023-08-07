@@ -14,7 +14,7 @@ def predict(image):
 def main():
     st.set_page_config(page_title="Object Detection", layout="wide")
 
-    st.title("YOLOv8 Object Detection with Streamlit")
+    st.title("YOLOv8 Signal Detection")
     st.write("Upload an image to detect objects.")
 
     uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
