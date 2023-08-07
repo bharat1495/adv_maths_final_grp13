@@ -84,14 +84,12 @@ repository.
 https://advmathsfinalgrp13-ejjqxnduvpmoooxnatgvjh.streamlit.app/
 
 <div style="text-align: center; color: black;">
-    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldish</h1> 
     <img src="images/s1.jpg" alt="Image" style="max-width: 300px;">
 </div>
 
 Click on browse use sample images from the folder in the the repo
 
 <div style="text-align: center; color: black;">
-    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldish</h1> 
     <img src="images/s2.jpg" alt="Image" style="max-width: 300px;">
 </div>
 
