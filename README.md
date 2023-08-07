@@ -1,7 +1,7 @@
 # German Traffic Signal Recognition
 
 <div style="text-align: center; color: black;">
-    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldish</h1> 
+    <h1>GERMAN TRAFFIC SIGNAL RECOGNITION! <br> Group 13 <br> Professor: Ran Feldesh</h1> 
     <img src="images/results.jpg" alt="Image" style="max-width: 300px;">
 </div>
 
